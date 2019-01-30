@@ -18,6 +18,18 @@
           transform: translate(0px, 0px);
 }
 
+#drag-1 {
+  background-image: url("https://i.etsystatic.com/14374565/r/il/c72d31/1732101246/il_570xN.1732101246_g0oi.jpg");
+}
+
+#drag-2 {
+  background-image: url("https://i.etsystatic.com/12086587/r/il/8994f1/933162530/il_570xN.933162530_rjjl.jpg");
+}
+
+#reseizer {
+  background-image: url("https://i.etsystatic.com/12086587/r/il/8994f1/933162530/il_570xN.933162530_rjjl.jpg");
+}
+
 /* h1 {
   textContent: center;
 } */
